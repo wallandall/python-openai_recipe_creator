@@ -1,6 +1,7 @@
 # Python OpenAI Recipe Creator
 
-This application uses Pthon and OpenAI API to generate a recipe and image based on ingriedients from a text imput
+This application uses Pthon and OpenAI API to generate a recipe and image based on ingriedients from a text imput.
+All images and recipies will be stored in the recipies folder.
 
 ## Setup
 
