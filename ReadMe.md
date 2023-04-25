@@ -1,5 +1,6 @@
 # Python OpenAI Recipe Creator
 
+This application uses Pthon and OpenAI API to generate a recipe and image based on ingriedients from a text imput
 
 ## Setup
 
@@ -16,6 +17,4 @@ API_SECRET='ENTER_YOUR_KEY'
 2. Activate the Virtual Environment by typing :
    1. On Windows: `.\venv\Scripts\activate`
    2. On Linux: `source tutorial-env/bin/activate`
-3. Install dependencies by running `pip install -r requirements.txt`
-
-4. Type : `Python main.py`
+3. Type : `Python main.py`
